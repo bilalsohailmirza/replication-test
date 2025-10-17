@@ -1,0 +1,36 @@
+Service Pages
+
+Web Dev: Cards to Remove
+Sections to Add:
+- New Images instead of Old Cards
+- Portfolio
+- Tech Stack
+- Pricing
+- Contact Form
+
+
+
+AI Automation Page [x]
+- No Portfolio
+- No Pricing
+
+
+App Dev Page
+- No Portfolio
+- No Pricing
+
+
+Digital Marketing
+- No portfolio
+
+
+E-Commerce
+- No Portfolio
+
+Game Dev
+- No Pricing
+
+
+Video -Animation
+- No Pricing
+
